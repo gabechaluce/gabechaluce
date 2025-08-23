@@ -2,13 +2,25 @@
 
 <div align="center">
   
+  <!-- Cover Photo -->
+  <img src="./image.jpg" width="100%" alt="Tranquil Artistic Cover" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.3);" />
+  
+  <br><br>
+  
   <!-- Animated wave border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
-
+  
+  <!-- Animated typing effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=🧑‍💻+Passionate+Software+Developer;🌱+Currently+exploring+Angular;🐘+Learning+PostgreSQL;🐱+Coding+companion:+my+Siamese+cat;💜+Creating+with+purpose+and+tranquility" alt="Typing SVG" />
+  
   <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
   
-
+  <!-- Siamese cat coding companion -->
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="80" alt="Siamese Cat" />
+    <span style="color: #a855f7; font-size: 16px; vertical-align: middle; margin-left: 10px;">My coding companion keeping me company 🐾</span>
+  </div>
   
 </div>
 
@@ -21,7 +33,10 @@ const developer = {
   name: "Your Name",
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
-  codingCompanion: "Ori on Earth🐱",
+  codingCompanion: "Siamese cat 🐱",
+  mindset: "Coding with tranquility and feline supervision",
+  motto: "Every line of code is a step in the journey",
+  ambiance: "Peaceful development environment with purring sounds 🧘‍♂️"
 };
 
 const siameseCat = {
@@ -51,7 +66,6 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <!-- Learning progress bars with purple theme -->
   <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
-  "Angular"
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
@@ -100,9 +114,9 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- GitHub stats with purple theme -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
 </div>
 
@@ -113,7 +127,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- Contribution graph with purple theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
   
 </div>
 
@@ -128,13 +142,14 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:gabechaluce.dev@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <br><br>
   
-
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
   
 </div>
 
@@ -147,7 +162,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br>
   
-  **"If tou give up, you're a certified loser. If you try, you're at least a winner in your book" - 16 years old Max "Blessed" Holloway** 🌺✨
+  **"Coding is not just about solving problems—it's about creating beauty in logic, finding peace in algorithms, and building bridges between ideas and reality. With my Siamese companion by my side, every debugging session becomes a meditation."** ✨
   
   <!-- Cat and developer final touch -->
   <div style="margin: 20px 0;">
