@@ -79,7 +79,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   <!-- GitHub stats with purple theme -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
 </div>
 
@@ -90,7 +90,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- Contribution graph with purple theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
   
 </div>
 
@@ -112,7 +112,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   <br><br>
   
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gabechaluce&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
   
 </div>
 
