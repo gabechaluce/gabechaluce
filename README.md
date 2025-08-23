@@ -1,6 +1,7 @@
 # 🌸 Welcome to My Tranquil Tech Journey
 
-<div align="center">
+<div align="center">![image](https://github.com/user-attachments/assets/d60e08da-8374-4949-8869-f6f6e97ccee6)
+
   
   <!-- Cover Photo -->
   <img src="./image.jpg" width="100%" alt="Tranquil Artistic Cover" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.3);" />
