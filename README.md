@@ -6,35 +6,58 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
   
   <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=🧑‍💻+Passionate+Software+Developer;🌱+Currently+exploring+Angular;🐘+Learning+PostgreSQL;💜+Creating+with+purpose+and+tranquility" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=🧑‍💻+Passionate+Software+Developer;🌱+Currently+exploring+Angular;🐘+Learning+PostgreSQL;🐱+Coding+companion:+my+Siamese+cat;💜+Creating+with+purpose+and+tranquility" alt="Typing SVG" />
   
-  <!-- Peaceful divider -->
+  <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  
+  <!-- Siamese cat coding companion -->
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="80" alt="Siamese Cat" />
+    <span style="color: #a855f7; font-size: 16px; vertical-align: middle; margin-left: 10px;">My coding companion keeping me company 🐾</span>
+  </div>
   
 </div>
 
 ## 🌙 About Me
 
-<img align="right" alt="Coding in tranquility" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Person coding with Siamese cat" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ```javascript
 const developer = {
   name: "Your Name",
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
-  mindset: "Coding with tranquility and purpose",
+  codingCompanion: "Siamese cat 🐱",
+  mindset: "Coding with tranquility and feline supervision",
   motto: "Every line of code is a step in the journey",
-  ambiance: "Peaceful development environment 🧘‍♂️"
+  ambiance: "Peaceful development environment with purring sounds 🧘‍♂️"
 };
 
-console.log("Welcome to my serene coding sanctuary! ✨");
+const siameseCat = {
+  role: "Chief Debugging Officer",
+  skills: ["Keyboard warming", "Bug detection", "Moral support"],
+  status: "Always watching over my code"
+};
+
+console.log("Welcome to our serene coding sanctuary! ✨");
 ```
+
+<!-- Cat walking animation -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="50" alt="Walking Cat" />
+</div>
 
 <br clear="both"/>
 
 ## 💫 Current Learning Journey
 
 <div align="center">
+  
+  <!-- Human and cat coding together -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding with Cat" />
+  
+  <br><br>
   
   <!-- Learning progress bars with purple theme -->
   <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
@@ -43,6 +66,15 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
   
   <br><br>
+  
+  <!-- Cat supervising the learning process -->
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="40" alt="Cat" />
+    <span style="color: #c084fc; font-size: 14px; margin: 0 10px;">Learning under feline supervision</span>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="40" alt="Cat" />
+  </div>
+  
+  <br>
   
   <!-- Animated progress indicators -->
   <img src="https://github-readme-streak-stats.vercel.app/?user=yourusername&theme=tokyonight&background=1a1b27&border=7c3aed&stroke=a855f7&ring=c084fc&fire=e879f9&currStreakNum=f3e8ff&sideNums=f3e8ff&currStreakLabel=a855f7&sideLabels=c084fc&dates=e879f9" />
@@ -79,7 +111,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   <!-- GitHub stats with purple theme -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
 </div>
 
@@ -90,7 +122,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- Contribution graph with purple theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
   
 </div>
 
@@ -112,7 +144,7 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   <br><br>
   
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=gabechaluce&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
   
 </div>
 
@@ -125,8 +157,13 @@ console.log("Welcome to my serene coding sanctuary! ✨");
   
   <br>
   
-  **"Coding is not just about solving problems—it's about creating beauty in logic, finding peace in algorithms, and building bridges between ideas and reality."** ✨
+  **"Coding is not just about solving problems—it's about creating beauty in logic, finding peace in algorithms, and building bridges between ideas and reality. With my Siamese companion by my side, every debugging session becomes a meditation."** ✨
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  <!-- Cat and developer final touch -->
+  <div style="margin: 20px 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="30" alt="Cat" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" style="margin: 0 10px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="30" alt="Cat" />
+  </div>
   
 </div>
