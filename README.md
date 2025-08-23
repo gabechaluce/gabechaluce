@@ -122,7 +122,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- Contribution graph with purple theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
   
 </div>
 
@@ -144,7 +144,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   <br><br>
   
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gabechaluce&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
   
 </div>
 
