@@ -133,8 +133,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br><br>
   
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=gabechaluce&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+
   
 </div>
 
