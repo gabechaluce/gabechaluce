@@ -3,7 +3,7 @@
 ### Hi, I'm Gab!
 
 🧑‍💻Software Developer based in the Philippines, sharing my journey and learning in tech<br/>
-💡Currently learning about Large Language Model<br/>
+💡Currently learning about Angular and PostgreSQL <br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabechaluce&show_icons=true&theme=midnight-purple)
