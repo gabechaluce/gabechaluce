@@ -1,19 +1,12 @@
 # 🌸 Welcome to My Tranquil Tech Journey
 
-<div align="center">![image](https://github.com/user-attachments/assets/d60e08da-8374-4949-8869-f6f6e97ccee6)
-
-  
-  <!-- Cover Photo -->
-  <img src="./image.jpg" width="100%" alt="Tranquil Artistic Cover" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(168, 85, 247, 0.3);" />
   
   <br><br>
   
   <!-- Animated wave border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
   
-  <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=🧑‍💻+Passionate+Software+Developer;🌱+Currently+exploring+Angular;🐘+Learning+PostgreSQL;🐱+Coding+companion:+my+Siamese+cat;💜+Creating+with+purpose+and+tranquility" alt="Typing SVG" />
-  
+
   <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
   
