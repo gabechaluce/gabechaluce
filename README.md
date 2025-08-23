@@ -41,25 +41,25 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Current Learning Journey
 
 <div align="center">
+  
+### 🎯 Learning Roadmap
 
-```mermaid
-gitgraph
-    commit id: "Started Coding Journey"
-    commit id: "Mastered JavaScript"
-    commit id: "Learned React"
-    branch angular
-    checkout angular
-    commit id: "Exploring Angular 🔥"
-    branch database
-    checkout database
-    commit id: "Learning PostgreSQL 🐘"
-    checkout main
-    merge angular
-    merge database
-    commit id: "Building Full-Stack Apps"
-    commit id: "Contributing to Open Source"
-    commit id: "Future: Advanced Architecture"
 ```
+📚 Foundation           ✅ JavaScript Mastery
+    ↓                   ✅ HTML/CSS Expert
+📖 Frontend Framework   ✅ React Development
+    ↓                   🔥 Angular (In Progress)
+🗄️  Backend & Database  🔥 PostgreSQL (Learning)
+    ↓                   🎯 Node.js/Express
+🚀 Full-Stack Projects  🎯 MEAN/PERN Stack
+    ↓                   🎯 Real-world Applications
+🌟 Advanced Topics      🔮 Microservices
+                        🔮 Cloud Architecture
+```
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e13b3a&fire=e13b3a&currStreakLabel=e13b3a" />
+</div>
 
 </div>
 
@@ -73,16 +73,16 @@ gitgraph
 ## <img src="https://media.giphy.com/media/7j3hfyetwWQ3jAMsUK/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabechaluce&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -105,7 +105,7 @@ gitgraph
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabechaluce&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
