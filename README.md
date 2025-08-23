@@ -27,7 +27,7 @@
 
 ## 🌙 About Me
 
-<img align="right" alt="Person coding with Siamese cat" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt="Person coding with Siamese cat" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ```javascript
 const developer = {
@@ -49,10 +49,7 @@ const siameseCat = {
 console.log("Welcome to our serene coding sanctuary! ✨");
 ```
 
-<!-- Cat walking animation -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="50" alt="Walking Cat" />
-</div>
+
 
 <br clear="both"/>
 
