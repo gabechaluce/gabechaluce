@@ -19,7 +19,7 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "Gabriel Echaluce",
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
   codingCompanion: "Ori on Earth 🐱",
