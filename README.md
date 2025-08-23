@@ -146,7 +146,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br>
   
-  **"If tou give up, you're a certified loser. If you try, you're at least a winner in your book" - 16 years old Max "Blessed" Holloway** ✨
+  **"If tou give up, you're a certified loser. If you try, you're at least a winner in your book" - 16 years old Max "Blessed" Holloway** 🌺✨
   
   <!-- Cat and developer final touch -->
   <div style="margin: 20px 0;">
