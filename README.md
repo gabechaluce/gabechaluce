@@ -104,7 +104,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   <!-- GitHub stats with purple theme -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
 </div>
 
