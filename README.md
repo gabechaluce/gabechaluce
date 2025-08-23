@@ -51,6 +51,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <!-- Learning progress bars with purple theme -->
   <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
+  "Angular"
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
