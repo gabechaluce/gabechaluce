@@ -4,10 +4,7 @@
   
   <!-- Animated wave border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
-  
-  <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=🧑‍💻+Passionate+Software+Developer;🌱+Currently+exploring+Angular;🐘+Learning+PostgreSQL;🐱+Coding+companion:+my+Siamese+cat;💜+Creating+with+purpose+and+tranquility"  />
-  
+
   <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
   
