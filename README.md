@@ -1,4 +1,4 @@
-# 🌸 Welcome to My Tranquil Tech Journey
+# 🌸 Welcome
 
   
   <br><br>
@@ -10,12 +10,7 @@
   <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
   
-  <!-- Siamese cat coding companion -->
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b15be.gif" width="80" alt="Siamese Cat" />
-    <span style="color: #a855f7; font-size: 16px; vertical-align: middle; margin-left: 10px;">My coding companion keeping me company 🐾</span>
-  </div>
-  
+
 </div>
 
 ## 🌙 About Me
@@ -27,10 +22,8 @@ const developer = {
   name: "Your Name",
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
-  codingCompanion: "Siamese cat 🐱",
-  mindset: "Coding with tranquility and feline supervision",
-  motto: "Every line of code is a step in the journey",
-  ambiance: "Peaceful development environment with purring sounds 🧘‍♂️"
+  codingCompanion: "Ori on Earth 🐱",
+
 };
 
 const siameseCat = {
