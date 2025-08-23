@@ -146,7 +146,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br>
   
-  **"Coding is not just about solving problems—it's about creating beauty in logic, finding peace in algorithms, and building bridges between ideas and reality. With my Siamese companion by my side, every debugging session becomes a meditation."** ✨
+  **"If tou give up, you're a certified loser. If you try, you're at least a winner in your book" - 16 years old Max "Blessed" Holloway** ✨
   
   <!-- Cat and developer final touch -->
   <div style="margin: 20px 0;">
