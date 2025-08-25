@@ -140,9 +140,9 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <!-- Cat and developer final touch -->
   <div style="margin: 20px 0;">
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="30" alt="Cat" />
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30" style="margin: 0 10px;" />
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="30" alt="Cat" />
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="1000" alt="Cat" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000" style="margin: 0 10px;" />
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="1000" alt="Cat" />
   </div>
   
 </div>
