@@ -23,8 +23,7 @@ const developer = {
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
   codingCompanion: "Ori on Earth 🐱",
-  yearlyContributions: 90,
-  activeRepositories: 15
+
 };
 
 const siameseCat = {
@@ -35,6 +34,8 @@ const siameseCat = {
 
 console.log("Welcome to our serene coding sanctuary! ✨");
 ```
+
+
 
 <br clear="both"/>
 
@@ -59,7 +60,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   <br>
   
   <!-- Animated progress indicators -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=gabechaluce&theme=tokyonight&background=1a1b27&border=7c3aed&stroke=a855f7&ring=c084fc&fire=e879f9&currStreakNum=f3e8ff&sideNums=f3e8ff&currStreakLabel=a855f7&sideLabels=c084fc&dates=e879f9" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=yourusername&theme=tokyonight&background=1a1b27&border=7c3aed&stroke=a855f7&ring=c084fc&fire=e879f9&currStreakNum=f3e8ff&sideNums=f3e8ff&currStreakLabel=a855f7&sideLabels=c084fc&dates=e879f9" />
   
 </div>
 
@@ -97,24 +98,10 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
 </div>
 
-## 🌱 Growth & Activity
+## 🌱 Growth 
 
+>
 <div align="center">
-  
-  <!-- Contribution overview with activity highlights -->
-  <div style="background: linear-gradient(135deg, #1a1b27 0%, #2d1b69 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-    
-  **📈 90 contributions in the last year**
-  
-  **🎯 Recent Activity:**
-  - 📦 **gabechaluce/gabechaluce** - Personal profile repository
-  - 🌐 **gabechaluce/portfolio_website** - Portfolio website development
-  - 📂 **gabechaluce/portfolio** - Portfolio projects
-  - 🔧 **+12 other active repositories**
-  
-  **💻 Development Focus:** 100% Commits | Code Reviews | Pull Requests
-  
-  </div>
   
   <!-- Contribution graph with purple theme -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
@@ -135,6 +122,8 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   </a>
   
   <br><br>
+  
+
   
 </div>
 
