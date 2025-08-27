@@ -59,9 +59,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br>
   
-  <!-- Animated progress indicators -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=yourusername&theme=tokyonight&background=1a1b27&border=7c3aed&stroke=a855f7&ring=c084fc&fire=e879f9&currStreakNum=f3e8ff&sideNums=f3e8ff&currStreakLabel=a855f7&sideLabels=c084fc&dates=e879f9" />
-  
+
 </div>
 
 ## 🌸 Tech Stack & Tools
