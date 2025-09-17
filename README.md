@@ -1,80 +1,3 @@
-# 🌸 Welcome
-
-  
-  <br><br>
-  
-  <!-- Animated wave border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
-  
-
-  <!-- Peaceful divider with cat -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-  
-
-</div>
-
-## 🌙 About Me
-
-<img align="center" alt="Person coding with Siamese cat" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-```javascript
-const developer = {
-  name: "Gabriel Echaluce",
-  location: "Philippines 🇵🇭",
-  currentFocus: ["Angular", "PostgreSQL"],
-  codingCompanion: "Ori on Earth 🐱",
-
-};
-
-const siameseCat = {
-  role: "Chief Debugging Officer",
-  skills: ["Keyboard warming", "Bug detection", "Moral support"],
-  status: "Always watching over my code"
-};
-
-console.log("Welcome to our serene coding sanctuary! ✨");
-```
-
-
-# 🌸 Welcome
-
-  
-  <br><br>
-  
-  <!-- Animated wave border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
-  
-
-  <!-- Peaceful divider with cat -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-  
-
-</div>
-
-## 🌙 About Me
-
-<img align="center" alt="Person coding with Siamese cat" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-```javascript
-const developer = {
-  name: "Gabriel Echaluce",
-  location: "Philippines 🇵🇭",
-  currentFocus: ["Angular", "PostgreSQL"],
-  codingCompanion: "Ori on Earth 🐱",
-
-};
-
-const siameseCat = {
-  role: "Chief Debugging Officer",
-  skills: ["Keyboard warming", "Bug detection", "Moral support"],
-  status: "Always watching over my code"
-};
-
-console.log("Welcome to our serene coding sanctuary! ✨");
-```
-
-
-
 <br clear="both"/>
 
 ## 💫 Current Learning Journey
@@ -149,7 +72,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
 </div>
 
-## 🔥 Contribution Graph
+## 🌱 Growth
 
 <div align="center">
   
@@ -158,13 +81,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabechaluce&theme=tokyonight&background=1a1b27&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=f3e8ff&currStreakNum=f3e8ff&sideNums=f3e8ff&dates=f3e8ff&hide_border=true"/>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabechaluce/gabechaluce/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabechaluce/gabechaluce/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabechaluce/gabechaluce/output/github-contribution-grid-snake.svg">
-  </picture>
+
   
 </div>
 
