@@ -1,3 +1,41 @@
+# 🌸 Welcome
+
+  
+  <br><br>
+  
+  <!-- Animated wave border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
+  
+
+  <!-- Peaceful divider with cat -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  
+
+</div>
+
+## 🌙 About Me
+
+<img align="center" alt="Person coding with Siamese cat" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+```javascript
+const developer = {
+  name: "Gabriel Echaluce",
+  location: "Philippines 🇵🇭",
+  currentFocus: ["Angular", "PostgreSQL"],
+  codingCompanion: "Ori on Earth 🐱",
+
+};
+
+const siameseCat = {
+  role: "Chief Debugging Officer",
+  skills: ["Keyboard warming", "Bug detection", "Moral support"],
+  status: "Always watching over my code"
+};
+
+console.log("Welcome to our serene coding sanctuary! ✨");
+```
+
+
 <br clear="both"/>
 
 ## 💫 Current Learning Journey
