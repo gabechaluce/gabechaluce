@@ -79,8 +79,6 @@
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=true&title_color=a855f7&custom_title=Gabriel's%20Contribution%20Graph" width="100%"/>
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabechaluce&theme=tokyonight&background=1a1b27&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=f3e8ff&currStreakNum=f3e8ff&sideNums=f3e8ff&dates=f3e8ff&hide_border=true"/>
 
   
 </div>
