@@ -11,7 +11,10 @@
   
   <!-- Learning progress bars with purple theme -->
  
+ <!-- Learning progress bars with purple theme -->
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
+  <br>
+  <strong>PostgreSQL</strong>
 
 
   
