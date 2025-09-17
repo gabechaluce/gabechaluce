@@ -110,15 +110,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
 </div>
 
-## 🌱 Growth 
 
->
-<div align="center">
-  
-  <!-- Contribution graph with purple theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=false&border_color=7c3aed" />
-  
-</div>
 
 ## 🤝 Let's Connect
 
