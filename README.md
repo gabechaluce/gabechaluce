@@ -52,7 +52,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 
 ## 🌸 Tech Stack & Tools
 <details>
-<summary>💜 Click to explore my tranquil toolkit</summary>
+<summary>💜 Click to explore my toolkit</summary>
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,10 +94,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 
 <div align="center">
   
-  <!-- Option 1: GitHub stats with cache busting and personal token -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed&cache_seconds=86400&include_all_commits=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed&cache_seconds=86400"/>
+ 
 
   <!-- Alternative: GitHub Streak Stats (less API intensive) -->
   <br><br>
