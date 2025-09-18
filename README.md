@@ -109,7 +109,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- GitHub stats with purple theme -->
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
