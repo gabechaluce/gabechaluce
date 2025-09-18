@@ -125,7 +125,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 <div align="center">
   
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=true&title_color=a855f7&custom_title=Gabriel's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=,&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=true&title_color=a855f7&custom_title=Gabriel's%20Contribution%20Graph" width="100%"/>
   
 
   
