@@ -1,25 +1,39 @@
-🌸 Welcome
-<br><br>
+# 🌸 Welcome
+
+  
+  <br><br>
+  
   <!-- Animated wave border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
+  
+
   <!-- Peaceful divider with cat -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  
+
 </div>
-🌙 About Me
+
+## 🌙 About Me
+
 <img align="center" alt="Person coding with Siamese cat" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 ```javascript
 const developer = {
   name: "Gabriel Echaluce",
   location: "Philippines 🇵🇭",
   currentFocus: ["Angular", "PostgreSQL"],
   codingCompanion: "Ori on Earth 🐱",
+
 };
+
 const siameseCat = {
-role: "Chief Debugging Officer",
-skills: ["Keyboard warming", "Bug detection", "Moral support"],
-status: "Always watching over my code"
+  role: "Chief Debugging Officer",
+  skills: ["Keyboard warming", "Bug detection", "Moral support"],
+  status: "Always watching over my code"
 };
+
 console.log("Welcome to our serene coding sanctuary! ✨");
+```
 
 
 <br clear="both"/>
@@ -52,7 +66,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 
 ## 🌸 Tech Stack & Tools
 <details>
-<summary>💜 Click to explore my toolkit</summary>
+<summary>💜 Click to explore my tranquil toolkit</summary>
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,38 +108,21 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 
 <div align="center">
   
- 
-
-  <!-- Alternative: GitHub Streak Stats (less API intensive) -->
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabechaluce&theme=tokyonight&background=1a1b27&ring=a855f7&fire=c084fc&currStreakLabel=f3e8ff&sideLabels=f3e8ff&currStreakNum=f3e8ff&sideNums=f3e8ff&dates=f3e8ff"/>
+  <!-- GitHub stats with purple theme -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabechaluce&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&icon_color=c084fc&border_color=7c3aed"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabechaluce&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=a855f7&text_color=f3e8ff&border_color=7c3aed"/>
   
 </div>
-
-<!-- Alternative GitHub Stats Services (Uncomment if needed) -->
-<!--
-## 📈 Alternative Stats
-
-<div align="center">
-  
-  <!-- Option 2: GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabechaluce&theme=tokyonight"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabechaluce&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabechaluce&theme=tokyonight"/>
-  
-  <!-- Option 3: GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=gabechaluce&theme=onedark&column=7&margin-w=15&margin-h=15"/>
-  
-</div>
--->
 
 ## 🌱 Growth
 
 <div align="center">
   
-  <!-- GitHub Activity Graph with improved settings -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=true&title_color=a855f7&custom_title=Gabriel's%20Contribution%20Graph&days=30" width="100%"/>
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabechaluce&bg_color=1a1b27&color=a855f7&line=c084fc&point=f3e8ff&area=true&hide_border=true&title_color=a855f7&custom_title=Gabriel's%20Contribution%20Graph" width="100%"/>
+  
+
   
 </div>
 
@@ -144,6 +141,8 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   
   <br><br>
   
+
+  
 </div>
 
 ---
@@ -156,5 +155,9 @@ console.log("Welcome to our serene coding sanctuary! ✨");
   <br>
   
   **"If you give up, you're a certified loser. If you try, you're at least a winner in your book." - 16 years-old Max "Blessed" Holloway** 🌺
+  
+  <!-- Cat and developer final touch -->
+  <div style="margin: 20px 0;">
+    
   
 </div>
