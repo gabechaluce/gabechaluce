@@ -2,9 +2,8 @@
 
   
   <br><br>
-  
-  <!-- Animated wave border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Software%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Based%20in%20the%20Philippines&descAlignY=51&descAlign=50" />
+<!-- Animated wave border -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=250&section=header&text=✨%20Software%20Developer%20✨&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Solutions%20•%20Based%20in%20the%20Philippines%20🇵🇭&descAlignY=55&descAlign=50&descSize=18&stroke=ffffff&strokeWidth=1" />
   
 
   <!-- Peaceful divider with cat -->
