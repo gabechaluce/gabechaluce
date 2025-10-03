@@ -66,7 +66,7 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 
 ## 🌸 Tech Arsenal
 <details>
-<summary>💜 Click to explore my toolkit</summary>
+<summary>💜 Expand to see my tech stack</summary>
   
 ### Frontend Development
   
@@ -107,8 +107,8 @@ console.log("Welcome to our serene coding sanctuary! ✨");
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-</details>
 
+</details>
 ## 📊 GitHub Insights
 
 <div align="center">
